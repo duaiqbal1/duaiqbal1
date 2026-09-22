@@ -1,6 +1,6 @@
 # Hi, I'm Dua Iqbal 👋
 
-### MSCS Graduate | Computer Science | AI/ML | Software Engineering | Research
+### MSCS | Computer Science | AI/ML | Software Engineering | Research
 
 I'm an MS Computer Science student and software developer interested in
 Artificial Intelligence, Software Engineering, Python, and research.
