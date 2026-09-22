@@ -26,11 +26,13 @@ Artificial Intelligence, Software Engineering, Python, and research.
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence
+- Artificial Intelligence & Machine Learning
 - Software Engineering
 - Automated Program Repair
-- Machine Learning
-- 6G & IoT
+- Explainable AI
+- Data Analysis
+- Web Development
+- Computer Science Research
 
 ## 📚 Education
 
