@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dua Iqbal 👋
 
-<!--
-**duaiqbal1/duaiqbal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MS Computer Science | Software Developer | Python
 
-Here are some ideas to get you started:
+I'm an MS Computer Science student and software developer interested in
+Artificial Intelligence, Software Engineering, Python, and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- C/C++
+- Java
+- JavaScript
+- Git & GitHub
+- Machine Learning
+- Software Engineering
+
+## 🚀 Projects
+
+- Automated Program Repair
+- Student Performance Prediction
+- Library Management System
+- Smart Solar Tracking System
+- Trading Bot
+- Smart Solar Tracking System
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Software Engineering
+- Automated Program Repair
+- Machine Learning
+- 6G & IoT
+
+## 📚 Education
+
+**MS Computer Science**
+
+## 🎯 Currently Learning
+
+- Advanced Python
+- Artificial Intelligence
+- Software Engineering
+- Open Source Development
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/duaiqbal1
