@@ -22,7 +22,8 @@ Artificial Intelligence, Software Engineering, Python, and research.
 - Library Management System
 - Smart Solar Tracking System
 - Trading Bot
-- Smart Solar Tracking System
+- pyexpense
+- bookcircle
 
 ## 🔬 Research Interests
 
